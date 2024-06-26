@@ -1,0 +1,11 @@
+{
+  "name": "Jugar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "preference":
+  {
+    "Orientation": "landscape"
+  }
+}

@@ -1,0 +1,55 @@
+.container
+{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+}
+ion-content
+{
+  --background: #eb4034
+}
+
+.nav-bar
+{
+  width: 100%;
+  padding: 5px 40px;
+  background-color: #ebcf3d;
+  display: flex;
+  justify-content: space-between;
+}
+
+.img-container
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img-container img
+{
+  width: 50px;
+}
+
+.button-container
+{
+  ion-button
+  {
+    color: #191919;
+    height: 60px;
+    background-color: #ff8400;
+    border-radius: 15px;
+  }
+}
+
+.fab
+{
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+
+ion-fab
+{
+  --background: #FAFF81;
+}
